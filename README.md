@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Amit Kumar Mahapatra
 
 🎓 Computer Science Graduate from Srinix College of Engineering  
-💻 Passionate Frontend Developer | React, JavaScript, HTML, CSS  
+💻 Passionate Python Full Stack Developer | React, JavaScript, HTML, CSS, Python, Sql, Django
+
 🚀 Projects: Healthcare Dashboard, Tic Tac Toe, Antique Cafe  
 🎯 Currently learning TypeScript and UI design with Tailwind CSS  
 
