@@ -2,7 +2,7 @@
 <h3 align="center">Python Full-Stack Developer | Building Scalable Web Applications</h3>
 
 <p align="center">
-  <img src="https://static.vecteezy.com/system/resources/thumbnails/003/820/811/small/python-programming-language-programing-workflow-abstract-algorithm-concept-on-virtual-screen-photo.jpg" alt="MasterHead" />
+  <img src="https://files.oaiusercontent.com/file-u7P7PqL7PqL7PqL7PqL7PqL7" alt="Amit Banner" width="100%" />
 </p>
 
 <p align="left"> 
@@ -38,7 +38,7 @@
 ### Connect with me:
 <p align="left">
 <a href="http://www.linkedin.com/in/amit-kumar-mahapatra-7b4989274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.facebook.com/Amit%20Kumar%20Mahapatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://wa.me/9348659669" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mr_ak.098?igsh=cjh0bTI2dWQ3ZjE1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
@@ -53,7 +53,6 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
 ### My GitHub Stats:
