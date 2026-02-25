@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Python+Full-Stack+Developer;Building+Scalable+Web+Apps;Django+%26+React+Specialist;Gymnastics+Enthusiast+🤸‍♂️" alt="Typing SVG" />
+    <img src="https://img.freepik.com/premium-photo/python-high-level-programing-language-communications-technology-concept_1085052-1669.jpg?semt=ais_hybrid&w=740&q=80" alt="Typing SVG" />
   </a>
 </p>
 
