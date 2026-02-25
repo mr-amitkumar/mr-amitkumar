@@ -37,7 +37,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="http://www.linkedin.com/in/biswajit7328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[www.linkedin.com/in/amit-kumar-mahapatra-7b4989274]" height="30" width="40" /></a>
-<a href="https://www.facebook.com/Akash7328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/Amit Kumar Mahapatra/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/Amit Kumar Mahapatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/Amit Kumar Mahapatra/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mr_ak.098?igsh=cjh0bTI2dWQ3ZjE1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mr_ak.098?igsh=cjh0bti2dwq3zje1" height="30" width="40" /></a>
 </p>
 
